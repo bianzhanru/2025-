@@ -1,0 +1,11 @@
+{
+    "implies": "Java",
+    "name": "uPortal",
+    "matches": [
+        {
+            "regexp": " uPortal ",
+            "search": "meta[description]"
+        }
+    ],
+    "website": "https://www.apereo.org/projects/uportal"
+}

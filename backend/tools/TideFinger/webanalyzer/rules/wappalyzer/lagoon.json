@@ -1,0 +1,14 @@
+{
+    "name": "Lagoon",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "headers[x-lagoon]"
+        },
+        {
+            "regexp": ".*",
+            "search": "headers[x-lagoon]"
+        }
+    ],
+    "website": "https://lagoon.sh/"
+}

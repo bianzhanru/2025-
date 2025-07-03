@@ -1,0 +1,31 @@
+{
+    "implies": "Microsoft ASP.NET",
+    "name": "Optimizely Content Management",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[EPi:StateMarker]"
+        },
+        {
+            "regexp": ".*",
+            "search": "cookies[EPiSessionId]"
+        },
+        {
+            "regexp": ".*",
+            "search": "cookies[EPiServer]"
+        },
+        {
+            "regexp": ".*",
+            "search": "cookies[EPiTrace]"
+        },
+        {
+            "regexp": "EPiServer",
+            "search": "meta[generator]"
+        },
+        {
+            "regexp": "\\.episerver\\.net",
+            "search": "headers[content-security-policy]"
+        }
+    ],
+    "website": "https://www.optimizely.com/products/content/"
+}

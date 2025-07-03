@@ -1,0 +1,15 @@
+{
+    "implies": [
+        "TwistedWeb",
+        "Python",
+        "Zope"
+    ],
+    "name": "Daphne",
+    "matches": [
+        {
+            "regexp": "Daphne",
+            "search": "headers[server]"
+        }
+    ],
+    "website": "https://github.com/django/daphne"
+}

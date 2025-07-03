@@ -1,0 +1,9 @@
+{
+    "name": "scrollreveal",
+    "matches": [
+        {
+            "regexp": "<[^>]+data-sr(?:-id)"
+        }
+    ],
+    "website": "https://scrollrevealjs.org"
+}

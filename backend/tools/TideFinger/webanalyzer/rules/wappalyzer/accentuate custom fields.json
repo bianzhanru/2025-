@@ -1,0 +1,10 @@
+{
+    "name": "Accentuate Custom Fields",
+    "matches": [
+        {
+            "regexp": "\\.accentuate\\.io/",
+            "search": "script"
+        }
+    ],
+    "website": "https://www.accentuate.io"
+}

@@ -1,0 +1,14 @@
+{
+    "implies": [
+        "PHP"
+    ],
+    "name": "SitePad",
+    "matches": [
+        {
+            "regexp": "^SitePad(?:\\s([\\d\\.]+))?$",
+            "search": "meta[generator]",
+            "offset": 1
+        }
+    ],
+    "website": "https://sitepad.com"
+}

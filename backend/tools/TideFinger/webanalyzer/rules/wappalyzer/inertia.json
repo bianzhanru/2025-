@@ -1,0 +1,10 @@
+{
+    "name": "Inertia",
+    "website": "https://inertiajs.com",
+    "matches": [
+        {
+            "search": "headers[x-inertia]",
+            "regexp": ".*"
+        }
+    ]
+}

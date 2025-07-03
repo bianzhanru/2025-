@@ -1,0 +1,15 @@
+{
+    "name": "Polylang",
+    "matches": [
+        {
+            "regexp": "[a-z]{2}",
+            "search": "cookies[pll_language]"
+        },
+        {
+            "regexp": "Polylang(?: (Pro))?",
+            "search": "headers[x-redirected-by]",
+            "offset": 1
+        }
+    ],
+    "website": "https://wordpress.org/plugins/polylang"
+}

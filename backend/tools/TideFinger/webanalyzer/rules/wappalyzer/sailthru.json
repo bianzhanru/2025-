@@ -1,0 +1,18 @@
+{
+    "name": "Sailthru",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[sailthru_pageviews]"
+        },
+        {
+            "regexp": ".*",
+            "search": "meta[sailthru.title]"
+        },
+        {
+            "regexp": ".*",
+            "search": "meta[sailthru.image.full]"
+        }
+    ],
+    "website": "https://www.sailthru.com"
+}

@@ -1,0 +1,15 @@
+{
+    "implies": "Laravel",
+    "name": "October CMS",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[october_session]"
+        },
+        {
+            "regexp": "OctoberCMS",
+            "search": "meta[generator]"
+        }
+    ],
+    "website": "http://octobercms.com"
+}

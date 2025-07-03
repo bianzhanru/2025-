@@ -1,0 +1,10 @@
+{
+    "name": "Bunny",
+    "matches": [
+        {
+            "regexp": "^BunnyCDN",
+            "search": "headers[server]"
+        }
+    ],
+    "website": "https://bunny.net"
+}

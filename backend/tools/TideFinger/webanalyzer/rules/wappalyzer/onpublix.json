@@ -1,0 +1,11 @@
+{
+    "name": "onpublix",
+    "matches": [
+        {
+            "regexp": "^onpublix\\s([\\d\\.]+)$",
+            "search": "meta[generator]",
+            "offset": 1
+        }
+    ],
+    "website": "https://www.onpublix.de"
+}

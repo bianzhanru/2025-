@@ -1,0 +1,13 @@
+{
+    "implies": [
+        "Deno"
+    ],
+    "name": "Deno Deploy",
+    "matches": [
+        {
+            "regexp": "^deno/*",
+            "search": "headers[server]"
+        }
+    ],
+    "website": "https://deno.land/"
+}

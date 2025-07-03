@@ -1,0 +1,9 @@
+{
+    "implies": [
+        "Vue.js",
+        "TypeScript"
+    ],
+    "name": "Naive UI",
+    "matches": [],
+    "website": "https://www.naiveui.com"
+}

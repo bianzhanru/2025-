@@ -1,0 +1,10 @@
+{
+    "name": "TomatoCart",
+    "matches": [
+        {
+            "regexp": "TomatoCart",
+            "search": "meta[generator]"
+        }
+    ],
+    "website": "http://tomatocart.com"
+}

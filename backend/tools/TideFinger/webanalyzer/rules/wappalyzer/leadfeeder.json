@@ -1,0 +1,10 @@
+{
+    "name": "Leadfeeder",
+    "matches": [
+        {
+            "regexp": "\\.(?:lfeeder|leadfeeder)\\.com",
+            "search": "headers[content-security-policy]"
+        }
+    ],
+    "website": "https://www.leadfeeder.com"
+}

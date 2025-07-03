@@ -1,0 +1,14 @@
+{
+    "implies": [
+        "PHP",
+        "Laravel"
+    ],
+    "name": "Statamic",
+    "matches": [
+        {
+            "regexp": "^Statamic$",
+            "search": "headers[x-powered-by]"
+        }
+    ],
+    "website": "https://statamic.com"
+}

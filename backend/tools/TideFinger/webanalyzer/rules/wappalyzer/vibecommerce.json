@@ -1,0 +1,16 @@
+{
+    "excludes": "PrestaShop",
+    "implies": "PHP",
+    "name": "vibecommerce",
+    "matches": [
+        {
+            "regexp": "vibecommerce",
+            "search": "meta[designer]"
+        },
+        {
+            "regexp": "vibecommerce",
+            "search": "meta[generator]"
+        }
+    ],
+    "website": "http://vibecommerce.com.br"
+}

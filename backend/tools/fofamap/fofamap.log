@@ -1,0 +1,174 @@
+[*]存活检测:开启
+[*]搜索范围:一年内数据
+[*]每页查询数量:100条/页
+[*]存活检测:开启
+[*]搜索范围:一年内数据
+[*]每页查询数量:100条/页
+[*]存活检测:开启
+[*]搜索范围:一年内数据
+[*]每页查询数量:100条/页
+{'email': 'maple@bupt.edu.cn', 'key': '82c18488fd46968001f025085c8b0db7'}
+[*]存活检测:开启
+[*]搜索范围:一年内数据
+[*]每页查询数量:100条/页
+{'email': 'maple@bupt.edu.cn', 'key': '82c18488fd46968001f025085c8b0db7'}
+[*]存活检测:开启
+[*]搜索范围:一年内数据
+[*]每页查询数量:100条/页
+{'email': 'maple@bupt.edu.cn', 'key': '82c18488fd46968001f025085c8b0db7'}
+[*]存活检测:开启
+[*]搜索范围:一年内数据
+[*]每页查询数量:100条/页
+{'email': 'maple@bupt.edu.cn', 'key': '82c18488fd46968001f025085c8b0db7'}
+[*]存活检测:开启
+[*]搜索范围:一年内数据
+[*]每页查询数量:100条/页
+[*]存活检测:开启
+[*]搜索范围:一年内数据
+[*]每页查询数量:100条/页
+[*]存活检测:开启
+[*]搜索范围:一年内数据
+[*]每页查询数量:100条/页
+https://fofa.so/api/v1/info/my?key=82c18488fd46968001f025085c8b0db7
+[*]存活检测:开启
+[*]搜索范围:一年内数据
+[*]每页查询数量:100条/页
+https://fofa.info/api/v1/info/my?key=82c18488fd46968001f025085c8b0db7
+https://fofa.info/api/v1/info/my?key=82c18488fd46968001f025085c8b0db7
+======个人信息=======
+[+] 邮箱：m****n
+[+] 用户名：hhhmaple
+[+] F币剩余数量：0
+[+] 是否是VIP：True
+[+] VIP等级：22
+[*]存活检测:开启
+[*]搜索范围:一年内数据
+[*]每页查询数量:100条/页
+https://fofa.info/api/v1/info/my?email=maple%40bupt.edu.cn&key=82c18488fd46968001f025085c8b0db7
+https://fofa.info/api/v1/info/my?email=maple%40bupt.edu.cn&key=82c18488fd46968001f025085c8b0db7
+======个人信息=======
+[+] 邮箱：m****n
+[+] 用户名：hhhmaple
+[+] F币剩余数量：0
+[+] 是否是VIP：True
+[+] VIP等级：22
+[*]存活检测:开启
+[*]搜索范围:一年内数据
+[*]每页查询数量:100条/页
+======个人信息=======
+[+] 邮箱：m****n
+[+] 用户名：hhhmaple
+[+] F币剩余数量：0
+[+] 是否是VIP：True
+[+] VIP等级：22
+======查询内容=======
+[+] 查询语句：title=Apache APISIX Dashboard
+[+] 查询参数：host,protocol,ip,port,title,domain,country
+[+] 查询页数：1-2
+======文档输出=======
+[+] 文档输出成功！文件名为：结果.xlsx
+======查询结果=======
++-----+-------------------------------------------+----------+-----------------+-------+----------------------------+-----------------+---------+--------------------+
+|  Id |                    Host                   | Protocol |        Ip       |  Port |           Title            |      Domain     | Country |  Http Status Code  |
++-----+-------------------------------------------+----------+-----------------+-------+----------------------------+-----------------+---------+--------------------+
+|  1  |            http://34.68.120.197           |   http   |  34.68.120.197  |   80  | Apache APISIX Dashbo...... |                 |    US   |        200         |
+|  2  |            http://13.38.207.15            |   http   |   13.38.207.15  |   80  | Apache APISIX Dashbo...... |                 |    FR   |        200         |
+|  3  |            http://18.143.22.177           |   http   |  18.143.22.177  |   80  | Apache APISIX Dashbo...... |                 |    SG   |        200         |
+|  4  |             http://52.5.24.150            |   http   |   52.5.24.150   |   80  | Apache APISIX Dashbo...... |                 |    US   |        200         |
+|  5  |            http://98.82.194.80            |   http   |   98.82.194.80  |   80  | Apache APISIX Dashbo...... |                 |    US   |        200         |
+|  6  |            http://47.90.228.254           |   http   |  47.90.228.254  |   80  | Apache APISIX Dashbo...... |                 |    US   |        200         |
+|  7  |        http://122.112.197.137:9005        |   http   | 122.112.197.137 |  9005 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  8  |         http://54.223.203.20:9009         |   http   |  54.223.203.20  |  9009 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  9  |        http://180.184.195.116:8080        |   http   | 180.184.195.116 |  8080 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  10 |           http://39.108.6.1:8080          |   http   |    39.108.6.1   |  8080 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  11 |         http://47.115.46.246:8080         |   http   |  47.115.46.246  |  8080 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  12 |        https://15.168.240.239:50100       |  https   |  15.168.240.239 | 50100 | apache apisix dashbo...... |                 |    JP   | Timeout exceeds 5s |
+|  13 |           http://18.176.189.126           |   http   |  18.176.189.126 |   80  | Apache APISIX Dashbo...... |                 |    JP   |        200         |
+|  14 |             http://3.12.54.193            |   http   |   3.12.54.193   |   80  | Apache APISIX Dashbo...... |                 |    US   |        200         |
+|  15 |   http://apisix-dashboard.chintcloud.net  |   http   |   47.103.85.84  |   80  | Apache APISIX Dashbo...... |  chintcloud.net |    CN   |        200         |
+|  16 |  https://apisix-dashboard.chintcloud.net  |  https   |   47.103.85.84  |  443  | Apache APISIX Dashbo...... |  chintcloud.net |    CN   |        200         |
+|  17 |         http://139.9.164.140:9005         |   http   |  139.9.164.140  |  9005 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  18 |         http://39.108.92.168:8080         |   http   |  39.108.92.168  |  8080 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  19 |            http://34.47.156.110           |   http   |  34.47.156.110  |   80  | Apache APISIX Dashbo...... |                 |    US   |        200         |
+|  20 |             http://47.86.14.47            |   http   |   47.86.14.47   |   80  | Apache APISIX Dashbo...... |                 |    US   |        200         |
+|  21 |            http://52.221.50.173           |   http   |  52.221.50.173  |   80  | Apache APISIX Dashbo...... |                 |    SG   |        200         |
+|  22 |      http://apisix-admin.qjxckfjt.com     |   http   | 183.129.156.220 |   80  | Apache APISIX Dashbo...... |   qjxckfjt.com  |    CN   |        200         |
+|  23 |     https://apisix-admin.qjxckfjt.com     |  https   | 183.129.156.220 |  443  | Apache APISIX Dashbo...... |   qjxckfjt.com  |    CN   |        200         |
+|  24 |             http://3.1.233.190            |   http   |   3.1.233.190   |   80  | Apache APISIX Dashbo...... |                 |    SG   |        200         |
+|  25 |          http://8.147.135.1:10000         |   http   |   8.147.135.1   | 10000 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  26 |            http://54.191.41.39            |   http   |   54.191.41.39  |   80  | Apache APISIX Dashbo...... |                 |    US   |        200         |
+|  27 |       https://apisix-dev.paykka.com       |  https   |  43.199.125.13  |  443  | Apache APISIX Dashbo...... |    paykka.com   |    CN   |        200         |
+|  28 |        http://apisix-dev.paykka.com       |   http   |   16.163.9.156  |   80  | Apache APISIX Dashbo...... |    paykka.com   |    CN   |        200         |
+|  29 |          http://1.117.164.69:9009         |   http   |   1.117.164.69  |  9009 | Apache APISIX Dashbo...... |                 |    CN   | Timeout exceeds 5s |
+|  30 |         http://103.42.58.235:7000         |   http   |  103.42.58.235  |  7000 | Apache APISIX Dashbo...... |                 |    VN   |        200         |
+|  31 |            http://3.108.87.233            |   http   |   3.108.87.233  |   80  | Apache APISIX Dashbo...... |                 |    IN   | Timeout exceeds 5s |
+|  32 |        http://123.249.108.50:18080        |   http   |  123.249.108.50 | 18080 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  33 |          http://li.proxy.udp.wiki         |   http   |   52.2.227.200  |   80  | Apache APISIX Dashbo...... |     udp.wiki    |    US   |        200         |
+|  34 |          http://120.92.85.27:6688         |   http   |   120.92.85.27  |  6688 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  35 |            http://18.213.184.66           |   http   |  18.213.184.66  |   80  | Apache APISIX Dashbo...... |                 |    US   |        200         |
+|  36 |             http://3.7.189.147            |   http   |   3.7.189.147   |   80  | Apache APISIX Dashbo...... |                 |    IN   |        200         |
+|  37 |             http://3.94.16.248            |   http   |   3.94.16.248   |   80  | Apache APISIX Dashbo...... |                 |    US   |        200         |
+|  38 |         http://106.13.170.72:8000         |   http   |  106.13.170.72  |  8000 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  39 |           http://44.213.239.208           |   http   |  44.213.239.208 |   80  | Apache APISIX Dashbo...... |                 |    US   |        200         |
+|  40 |             http://3.64.79.114            |   http   |   3.64.79.114   |   80  | Apache APISIX Dashbo...... |                 |    DE   |        200         |
+|  41 |            https://212.227.7.64           |  https   |   212.227.7.64  |  443  | Apache APISIX Dashbo...... |                 |    DE   |        200         |
+|  42 |            http://44.213.224.63           |   http   |  44.213.224.63  |   80  | Apache APISIX Dashbo...... |                 |    US   |        200         |
+|  43 |         http://47.101.181.108:9009        |   http   |  47.101.181.108 |  9009 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  44 |          https://161.189.225.172          |  https   | 161.189.225.172 |  443  | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  45 |            https://52.76.29.218           |  https   |   52.76.29.218  |  443  | Apache APISIX Dashbo...... |                 |    SG   |        200         |
+|  46 |            https://98.82.194.80           |  https   |   98.82.194.80  |  443  | Apache APISIX Dashbo...... |                 |    US   |        200         |
+|  47 |            http://39.105.37.250           |   http   |  39.105.37.250  |   80  | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  48 |            http://8.141.119.76            |   http   |   8.141.119.76  |   80  | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  49 |            http://40.90.185.237           |   http   |  40.90.185.237  |   80  | Apache APISIX Dashbo...... |                 |    SG   |        200         |
+|  50 |            http://120.27.199.68           |   http   |  120.27.199.68  |   80  | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  51 |           http://18.180.171.186           |   http   |  18.180.171.186 |   80  | Apache APISIX Dashbo...... |                 |    JP   |        200         |
+|  52 |          http://61.160.55.98:9003         |   http   |   61.160.55.98  |  9003 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  53 |     https://apisix-db.chenfengstm.com     |  https   |   43.167.1.210  |  443  | Apache APISIX Dashbo...... | chenfengstm.com |    SG   |        200         |
+|  54 |     http://prod-api-gw-01.swg-srv.net     |   http   |  92.222.242.112 |   80  | Apache APISIX Dashbo...... |   swg-srv.net   |    FR   |        200         |
+|  55 |     https://prod-api-gw-01.swg-srv.net    |  https   |  92.222.242.112 |  443  | Apache APISIX Dashbo...... |   swg-srv.net   |    FR   |        200         |
+|  56 |   https://preprod-api-gw-01.swg-srv.net   |  https   |  212.83.186.238 |  443  | Apache APISIX Dashbo...... |   swg-srv.net   |    FR   |        200         |
+|  57 |           https://95.217.29.124           |  https   |  95.217.29.124  |  443  | Apache APISIX Dashbo...... |                 |    FI   |        200         |
+|  58 |           https://203.29.19.235           |  https   |  203.29.19.235  |  443  | Apache APISIX Dashbo...... |                 |    AU   |        200         |
+|  59 | https://dashboard-apisix.api.lumistry.com |  https   |    34.8.78.89   |  443  | Apache APISIX Dashbo...... |   lumistry.com  |    US   |        200         |
+|  60 |  http://dashboard-apisix.api.lumistry.com |   http   |    34.8.78.89   |   80  | Apache APISIX Dashbo...... |   lumistry.com  |    US   |        200         |
+|  61 |             http://www.a2cd.cn            |   http   |  111.231.98.148 |   80  | Apache APISIX Dashbo...... |     a2cd.cn     |    CN   |        200         |
+|  62 |           https://167.235.50.68           |  https   |  167.235.50.68  |  443  | Apache APISIX Dashbo...... |                 |    DE   |        200         |
+|  63 |       https://dev.apisix.saafe.tech       |  https   |   34.117.55.44  |  443  | Apache APISIX Dashbo...... |    saafe.tech   |    US   |        200         |
+|  64 |          http://120.78.5.53:8008          |   http   |   120.78.5.53   |  8008 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  65 |            http://65.1.142.133            |   http   |   65.1.142.133  |   80  | Apache APISIX Dashbo...... |                 |    IN   |        200         |
+|  66 |          http://59.172.2.142:8080         |   http   |   59.172.2.142  |  8080 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  67 |         http://116.204.46.226:8080        |   http   |  116.204.46.226 |  8080 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  68 |              http://52.8.95.8             |   http   |    52.8.95.8    |   80  | Apache APISIX Dashbo...... |                 |    US   |        200         |
+|  69 |          http://8.211.12.169:8001         |   http   |   8.211.12.169  |  8001 | Apache APISIX Dashbo...... |                 |    DE   |        200         |
+|  70 |             http://13.37.95.1             |   http   |    13.37.95.1   |   80  | Apache APISIX Dashbo...... |                 |    FR   | Timeout exceeds 5s |
+|  71 |         http://47.110.42.208:8081         |   http   |  47.110.42.208  |  8081 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  72 |         https://16.52.76.145:2424         |  https   |   16.52.76.145  |  2424 | apache apisix dashbo...... |                 |    CA   | Timeout exceeds 5s |
+|  73 |         http://42.194.249.197:8090        |   http   |  42.194.249.197 |  8090 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  74 |         http://120.76.249.27:8083         |   http   |  120.76.249.27  |  8083 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  75 |         https://18.60.222.171:8443        |  https   |  18.60.222.171  |  8443 | apache apisix dashbo...... |                 |    IN   | Timeout exceeds 5s |
+|  76 |         http://47.108.228.117:8083        |   http   |  47.108.228.117 |  8083 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  77 |        https://apisix.t.meierbei.cn       |  https   | 118.145.201.238 |  443  | Apache APISIX Dashbo...... |   meierbei.cn   |    CN   |        200         |
+|  78 |          http://106.15.28.29:9003         |   http   |   106.15.28.29  |  9003 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  79 |        http://180.210.176.243:9000        |   http   | 180.210.176.243 |  9000 | Apache APISIX Dashbo...... |                 |    BD   |        200         |
+|  80 |          http://1.92.68.159:9000          |   http   |   1.92.68.159   |  9000 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  81 |         http://120.25.124.107:9000        |   http   |  120.25.124.107 |  9000 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  82 |         http://120.26.49.177:9000         |   http   |  120.26.49.177  |  9000 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  83 |         http://124.220.75.13:9000         |   http   |  124.220.75.13  |  9000 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  84 |          http://1.94.142.131:9000         |   http   |   1.94.142.131  |  9000 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  85 |         http://2.185.254.162:9000         |   http   |  2.185.254.162  |  9000 | Apache APISIX Dashbo...... |                 |    IR   |        200         |
+|  86 |         http://101.43.52.247:9100         |   http   |  101.43.52.247  |  9100 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  87 |         http://154.212.67.132:9000        |   http   |  154.212.67.132 |  9000 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  88 |           http://amw51.av380.cn           |   http   |   47.251.10.10  |   80  | Apache APISIX Dashbo...... |     av380.cn    |    US   |        200         |
+|  89 |         http://182.16.45.202:9000         |   http   |  182.16.45.202  |  9000 | Apache APISIX Dashbo...... |                 |    CN   | Timeout exceeds 5s |
+|  90 |          http://47.109.34.53:9000         |   http   |   47.109.34.53  |  9000 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  91 |          http://47.93.14.232:9000         |   http   |   47.93.14.232  |  9000 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  92 |        http://180.210.176.244:9000        |   http   | 180.210.176.244 |  9000 | Apache APISIX Dashbo...... |                 |    BD   |        200         |
+|  93 |         http://120.27.193.247:9000        |   http   |  120.27.193.247 |  9000 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  94 |        http://122.112.245.190:9000        |   http   | 122.112.245.190 |  9000 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  95 |          http://139.9.56.61:9000          |   http   |   139.9.56.61   |  9000 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  96 |         http://123.60.176.157:9000        |   http   |  123.60.176.157 |  9000 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  97 |         http://121.123.42.70:9000         |   http   |  121.123.42.70  |  9000 | Apache APISIX Dashbo...... |                 |    MY   |        200         |
+|  98 |         http://120.27.246.87:9000         |   http   |  120.27.246.87  |  9000 | Apache APISIX Dashbo...... |                 |    CN   |        200         |
+|  99 |          http://47.236.76.57:9000         |   http   |   47.236.76.57  |  9000 | Apache APISIX Dashbo...... |                 |    SG   |        200         |
+| 100 |         http://35.224.203.11:9000         |   http   |  35.224.203.11  |  9000 | Apache APISIX Dashbo...... |                 |    US   |        200         |
++-----+-------------------------------------------+----------+-----------------+-------+----------------------------+-----------------+---------+--------------------+

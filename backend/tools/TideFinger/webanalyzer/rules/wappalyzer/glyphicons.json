@@ -1,0 +1,9 @@
+{
+    "name": "Glyphicons",
+    "matches": [
+        {
+            "regexp": "(?:<link[^>]* href=[^>]+glyphicons(?:\\.min)?\\.css|<img[^>]* src=[^>]+glyphicons)"
+        }
+    ],
+    "website": "http://glyphicons.com"
+}

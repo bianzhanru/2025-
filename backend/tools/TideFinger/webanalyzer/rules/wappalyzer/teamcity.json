@@ -1,0 +1,23 @@
+{
+    "implies": [
+        "Apache Tomcat",
+        "Java",
+        "jQuery",
+        "Moment.js",
+        "Prototype",
+        "React",
+        "Underscore.js"
+    ],
+    "name": "TeamCity",
+    "matches": [
+        {
+            "regexp": "TeamCity",
+            "search": "meta[application-name]"
+        },
+        {
+            "regexp": "<span class=\"versionTag\"><span class=\"vWord\">Version</span> ([\\d\\.]+)",
+            "offset": 1
+        }
+    ],
+    "website": "https://www.jetbrains.com/teamcity/"
+}

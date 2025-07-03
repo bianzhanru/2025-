@@ -1,0 +1,19 @@
+{
+    "implies": [
+        "PHP",
+        "MySQL",
+        "Vue.js"
+    ],
+    "name": "Website Creator",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "meta[wsc_rendermode]"
+        },
+        {
+            "regexp": "Website Creator by hosttech",
+            "search": "meta[generator]"
+        }
+    ],
+    "website": "https://www.hosttech.ch/websitecreator"
+}

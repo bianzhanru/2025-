@@ -1,0 +1,15 @@
+{
+    "name": "GoDaddy Website Builder",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[dps_site_id]"
+        },
+        {
+            "regexp": "Go Daddy Website Builder (.+)",
+            "search": "meta[generator]",
+            "offset": 1
+        }
+    ],
+    "website": "https://www.godaddy.com/websites/website-builder"
+}

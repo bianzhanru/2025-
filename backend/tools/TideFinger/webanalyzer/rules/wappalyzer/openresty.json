@@ -1,0 +1,14 @@
+{
+    "implies": [
+        "Nginx"
+    ],
+    "name": "OpenResty",
+    "matches": [
+        {
+            "regexp": "openresty(?:/([\\d.]+))?",
+            "search": "headers[server]",
+            "offset": 1
+        }
+    ],
+    "website": "http://openresty.org"
+}

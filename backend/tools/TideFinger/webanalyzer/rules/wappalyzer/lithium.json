@@ -1,0 +1,14 @@
+{
+    "implies": "PHP",
+    "name": "Lithium",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[LithiumVisitor]"
+        },
+        {
+            "regexp": " <a [^>]+Powered by Lithium"
+        }
+    ],
+    "website": "https://www.lithium.com"
+}

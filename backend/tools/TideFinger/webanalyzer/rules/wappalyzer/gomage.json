@@ -1,0 +1,9 @@
+{
+    "implies": [
+        "PWA",
+        "Magento"
+    ],
+    "name": "GoMage",
+    "matches": [],
+    "website": "https://www.gomage.com/magento-2-pwa"
+}

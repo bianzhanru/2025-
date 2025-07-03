@@ -1,0 +1,18 @@
+{
+    "name": "Gravity Forms",
+    "matches": [
+        {
+            "regexp": "<div class=(?:\"|')[^>]*gform_wrapper"
+        },
+        {
+            "regexp": "<div class=(?:\"|')[^>]*gform_body"
+        },
+        {
+            "regexp": "<ul [^>]*class=(?:\"|')[^>]*gform_fields"
+        },
+        {
+            "regexp": "<link [^>]*href=(?:\"|')[^>]*wp-content/plugins/gravityforms/css/"
+        }
+    ],
+    "website": "http://gravityforms.com"
+}

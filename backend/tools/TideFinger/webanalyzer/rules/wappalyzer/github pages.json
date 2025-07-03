@@ -1,0 +1,14 @@
+{
+    "name": "GitHub Pages",
+    "matches": [
+        {
+            "regexp": "^GitHub\\.com$",
+            "search": "headers[server]"
+        },
+        {
+            "regexp": ".*",
+            "search": "headers[x-github-request-id]"
+        }
+    ],
+    "website": "https://pages.github.com/"
+}

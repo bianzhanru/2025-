@@ -1,0 +1,9 @@
+{
+    "implies": [
+        "JsObservable",
+        "JsRender"
+    ],
+    "name": "JsViews",
+    "matches": [],
+    "website": "https://www.jsviews.com/#jsviews"
+}

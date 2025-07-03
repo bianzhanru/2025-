@@ -1,0 +1,11 @@
+{
+    "name": "Eleventy",
+    "matches": [
+        {
+            "regexp": "^Eleventy\\sv([\\d\\.]+)$",
+            "search": "meta[generator]",
+            "offset": 1
+        }
+    ],
+    "website": "https://www.11ty.dev"
+}

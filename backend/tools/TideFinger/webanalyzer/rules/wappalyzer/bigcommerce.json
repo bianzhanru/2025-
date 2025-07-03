@@ -1,0 +1,10 @@
+{
+    "name": "BigCommerce",
+    "matches": [
+        {
+            "regexp": "bigcommerceProductId",
+            "search": "script"
+        }
+    ],
+    "website": "http://www.bigcommerce.com"
+}

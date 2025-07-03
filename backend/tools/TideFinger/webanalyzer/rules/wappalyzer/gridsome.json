@@ -1,0 +1,12 @@
+{
+    "implies": "Vue.js",
+    "name": "Gridsome",
+    "matches": [
+        {
+            "regexp": "^Gridsome v([\\d.]+)$",
+            "search": "meta[generator]",
+            "offset": 1
+        }
+    ],
+    "website": "https://gridsome.org"
+}

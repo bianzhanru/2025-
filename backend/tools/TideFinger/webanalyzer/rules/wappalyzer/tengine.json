@@ -1,0 +1,10 @@
+{
+    "name": "Tengine",
+    "matches": [
+        {
+            "regexp": "Tengine",
+            "search": "headers[server]"
+        }
+    ],
+    "website": "http://tengine.taobao.org"
+}

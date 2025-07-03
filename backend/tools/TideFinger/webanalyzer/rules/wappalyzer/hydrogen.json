@@ -1,0 +1,15 @@
+{
+    "implies": [
+        "Shopify",
+        "React",
+        "Vite"
+    ],
+    "name": "Hydrogen",
+    "matches": [
+        {
+            "regexp": "^Shopify-Hydrogen$",
+            "search": "headers[powered-by]"
+        }
+    ],
+    "website": "https://hydrogen.shopify.dev"
+}

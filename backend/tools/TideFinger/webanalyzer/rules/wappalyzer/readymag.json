@@ -1,0 +1,10 @@
+{
+    "name": "Readymag",
+    "matches": [
+        {
+            "regexp": "^Readymag$",
+            "search": "meta[generator]"
+        }
+    ],
+    "website": "https://readymag.com"
+}

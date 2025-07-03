@@ -1,0 +1,9 @@
+{
+    "name": "Yandex.Direct",
+    "matches": [
+        {
+            "regexp": "<yatag class=\"ya-partner__ads\">"
+        }
+    ],
+    "website": "http://partner.yandex.com"
+}

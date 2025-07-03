@@ -1,0 +1,19 @@
+{
+    "implies": "Azure",
+    "name": "Azure Front Door",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[ASLBSACORS]"
+        },
+        {
+            "regexp": ".*",
+            "search": "cookies[ASLBSA]"
+        },
+        {
+            "regexp": ".*",
+            "search": "headers[x-azure-ref]"
+        }
+    ],
+    "website": "https://docs.microsoft.com/en-us/azure/frontdoor/"
+}

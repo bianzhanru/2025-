@@ -1,0 +1,9 @@
+{
+    "name": "Jetshop",
+    "matches": [
+        {
+            "regexp": "<(?:div|aside) id=\"jetshop-branding\">"
+        }
+    ],
+    "website": "http://jetshop.se"
+}

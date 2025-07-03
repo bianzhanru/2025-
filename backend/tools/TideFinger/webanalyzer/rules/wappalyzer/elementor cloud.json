@@ -1,0 +1,14 @@
+{
+    "implies": [
+        "WordPress",
+        "Elementor"
+    ],
+    "name": "Elementor Cloud",
+    "matches": [
+        {
+            "regexp": "Elementor Cloud",
+            "search": "headers[x-powered-by]"
+        }
+    ],
+    "website": "https://elementor.com"
+}

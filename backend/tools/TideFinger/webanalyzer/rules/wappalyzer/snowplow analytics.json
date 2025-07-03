@@ -1,0 +1,15 @@
+{
+    "name": "Snowplow Analytics",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[_sp_id]"
+        },
+        {
+            "certainty": 50,
+            "regexp": ".*",
+            "search": "cookies[sp]"
+        }
+    ],
+    "website": "https://snowplowanalytics.com"
+}

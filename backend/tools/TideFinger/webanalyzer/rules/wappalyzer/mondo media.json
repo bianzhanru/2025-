@@ -1,0 +1,10 @@
+{
+    "name": "Mondo Media",
+    "matches": [
+        {
+            "regexp": "Mondo Shop",
+            "search": "meta[generator]"
+        }
+    ],
+    "website": "http://mondo-media.de"
+}

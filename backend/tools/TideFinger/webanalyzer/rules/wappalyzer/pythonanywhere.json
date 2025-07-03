@@ -1,0 +1,11 @@
+{
+    "implies": "Python",
+    "name": "PythonAnywhere",
+    "matches": [
+        {
+            "regexp": "^PythonAnywhere$",
+            "search": "headers[server]"
+        }
+    ],
+    "website": "https://www.pythonanywhere.com"
+}

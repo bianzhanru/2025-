@@ -1,0 +1,10 @@
+{
+    "name": "GeeTest",
+    "matches": [
+        {
+            "regexp": "\\.geetest\\.com",
+            "search": "headers[content-security-policy]"
+        }
+    ],
+    "website": "https://www.geetest.com"
+}

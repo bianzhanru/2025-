@@ -1,0 +1,10 @@
+{
+    "name": "Deta",
+    "matches": [
+        {
+            "regexp": "^Deta$",
+            "search": "headers[server]"
+        }
+    ],
+    "website": "https://deta.sh"
+}

@@ -1,0 +1,9 @@
+{
+    "implies": [
+        "Prism",
+        "PIXIjs"
+    ],
+    "name": "Obsidian Publish",
+    "matches": [],
+    "website": "https://obsidian.md/publish"
+}

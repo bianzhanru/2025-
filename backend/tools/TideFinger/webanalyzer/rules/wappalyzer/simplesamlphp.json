@@ -1,0 +1,15 @@
+{
+    "implies": "PHP",
+    "name": "SimpleSAMLphp",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[SimpleSAMLSessionID]"
+        },
+        {
+            "regexp": ".*",
+            "search": "cookies[SimpleSAML]"
+        }
+    ],
+    "website": "https://simplesamlphp.org"
+}

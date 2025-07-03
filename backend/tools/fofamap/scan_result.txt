@@ -1,0 +1,18 @@
+[cookies-without-secure] [javascript] [info] 192.168.186.139:8899 ["JSESSIONID"]
+[old-copyright] [http] [info] http://192.168.186.139:8899/login ["\u00a9 2018-2021"]
+[http-missing-security-headers:content-security-policy] [http] [info] http://192.168.186.139:8899/login
+[http-missing-security-headers:permissions-policy] [http] [info] http://192.168.186.139:8899/login
+[http-missing-security-headers:x-content-type-options] [http] [info] http://192.168.186.139:8899/login
+[http-missing-security-headers:referrer-policy] [http] [info] http://192.168.186.139:8899/login
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] http://192.168.186.139:8899/login
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] http://192.168.186.139:8899/login
+[http-missing-security-headers:strict-transport-security] [http] [info] http://192.168.186.139:8899/login
+[http-missing-security-headers:x-frame-options] [http] [info] http://192.168.186.139:8899/login
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] http://192.168.186.139:8899/login
+[http-missing-security-headers:clear-site-data] [http] [info] http://192.168.186.139:8899/login
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] http://192.168.186.139:8899/login
+[shiro-detect] [http] [info] http://192.168.186.139:8899
+[form-detection] [http] [info] http://192.168.186.139:8899/login
+[fingerprinthub-web-fingerprints:ruoyi-system] [http] [info] http://192.168.186.139:8899/login
+[tech-detect:font-awesome] [http] [info] http://192.168.186.139:8899/login
+[tech-detect:bootstrap] [http] [info] http://192.168.186.139:8899/login

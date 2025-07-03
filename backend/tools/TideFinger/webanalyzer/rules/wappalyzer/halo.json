@@ -1,0 +1,12 @@
+{
+    "implies": "Java",
+    "name": "Halo",
+    "matches": [
+        {
+            "regexp": "Halo ([\\d.]+)?",
+            "search": "meta[generator]",
+            "offset": 1
+        }
+    ],
+    "website": "https://halo.run"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Divi",
+    "matches": [
+        {
+            "regexp": "Divi",
+            "search": "meta[generator]"
+        }
+    ],
+    "website": "https://www.elegantthemes.com/gallery/divi"
+}

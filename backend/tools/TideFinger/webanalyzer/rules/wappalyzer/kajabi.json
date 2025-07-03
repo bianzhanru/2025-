@@ -1,0 +1,10 @@
+{
+    "name": "Kajabi",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[_kjb_session]"
+        }
+    ],
+    "website": "https://kajabi.com"
+}

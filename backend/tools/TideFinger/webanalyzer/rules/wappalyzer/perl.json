@@ -1,0 +1,11 @@
+{
+    "name": "Perl",
+    "matches": [
+        {
+            "regexp": "\\bPerl\\b(?: ?/?v?([\\d.]+))?",
+            "search": "headers[server]",
+            "offset": 1
+        }
+    ],
+    "website": "http://perl.org"
+}

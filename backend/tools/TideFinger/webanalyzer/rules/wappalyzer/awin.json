@@ -1,0 +1,14 @@
+{
+    "name": "AWIN",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[BAGawin]"
+        },
+        {
+            "regexp": ".*",
+            "search": "cookies[_aw_xid]"
+        }
+    ],
+    "website": "https://www.awin.com"
+}

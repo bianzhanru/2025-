@@ -1,0 +1,10 @@
+{
+    "name": "Tiki Wiki CMS Groupware",
+    "matches": [
+        {
+            "regexp": "^Tiki",
+            "search": "meta[generator]"
+        }
+    ],
+    "website": "http://tiki.org"
+}

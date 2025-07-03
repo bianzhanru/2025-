@@ -1,0 +1,14 @@
+{
+    "implies": [
+        "Amazon Web Services",
+        "Docker"
+    ],
+    "name": "Amazon ECS",
+    "matches": [
+        {
+            "regexp": "^ECS",
+            "search": "headers[server]"
+        }
+    ],
+    "website": "https://aws.amazon.com/ecs/"
+}

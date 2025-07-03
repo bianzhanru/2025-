@@ -1,0 +1,10 @@
+{
+    "name": "Rokt",
+    "matches": [
+        {
+            "regexp": "\\.rokt\\.com",
+            "search": "headers[content-security-policy]"
+        }
+    ],
+    "website": "https://www.rokt.com"
+}

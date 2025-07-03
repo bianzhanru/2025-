@@ -1,0 +1,14 @@
+{
+    "name": "Apptus",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[apptus.customerKey]"
+        },
+        {
+            "regexp": ".*",
+            "search": "cookies[apptus.sessionKey]"
+        }
+    ],
+    "website": "https://www.apptus.com"
+}

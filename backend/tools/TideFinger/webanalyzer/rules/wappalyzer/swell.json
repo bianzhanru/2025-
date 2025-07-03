@@ -1,0 +1,19 @@
+{
+    "name": "Swell",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[swell-session]"
+        },
+        {
+            "regexp": "<[^>]*swell\\.is"
+        },
+        {
+            "regexp": "<[^>]*swell\\.store"
+        },
+        {
+            "regexp": "<[^>]*schema\\.io"
+        }
+    ],
+    "website": "https://www.swell.is/"
+}

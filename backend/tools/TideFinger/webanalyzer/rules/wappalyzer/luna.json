@@ -1,0 +1,10 @@
+{
+    "name": "Luna",
+    "matches": [
+        {
+            "regexp": "bsdk\\.api\\.ditto.com",
+            "search": "headers[content-security-policy]"
+        }
+    ],
+    "website": "https://luna.io"
+}

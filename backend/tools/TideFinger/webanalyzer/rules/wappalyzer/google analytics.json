@@ -1,0 +1,32 @@
+{
+    "name": "Google Analytics",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[_ga_*]"
+        },
+        {
+            "regexp": ".*",
+            "search": "cookies[__utma]"
+        },
+        {
+            "regexp": ".*",
+            "search": "cookies[_gat]"
+        },
+        {
+            "regexp": ".*",
+            "search": "cookies[_ga]"
+        },
+        {
+            "regexp": "gtag\\([^)]+'(UA-)",
+            "search": "script",
+            "offset": 1
+        },
+        {
+            "regexp": "gtag\\([^)]+'(G-)",
+            "search": "script",
+            "offset": 1
+        }
+    ],
+    "website": "http://google.com/analytics"
+}

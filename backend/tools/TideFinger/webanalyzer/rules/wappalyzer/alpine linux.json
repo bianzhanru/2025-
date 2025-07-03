@@ -1,0 +1,10 @@
+{
+    "name": "Alpine Linux",
+    "matches": [
+        {
+            "regexp": "Alpine",
+            "search": "headers[x-powered-by]"
+        }
+    ],
+    "website": "https://www.alpinelinux.org"
+}

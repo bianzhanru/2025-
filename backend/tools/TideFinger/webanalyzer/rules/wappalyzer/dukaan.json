@@ -1,0 +1,10 @@
+{
+    "name": "Dukaan",
+    "matches": [
+        {
+            "regexp": "^MyDukaan$",
+            "search": "meta[apple-mobile-web-app-title]"
+        }
+    ],
+    "website": "https://mydukaan.io"
+}

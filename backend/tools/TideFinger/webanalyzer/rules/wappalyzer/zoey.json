@@ -1,0 +1,10 @@
+{
+    "excludes": "Magento",
+    "implies": [
+        "PHP",
+        "MySQL"
+    ],
+    "name": "Zoey",
+    "matches": [],
+    "website": "https://www.zoey.com/"
+}

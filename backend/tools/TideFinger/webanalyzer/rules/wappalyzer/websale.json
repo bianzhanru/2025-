@@ -1,0 +1,10 @@
+{
+    "name": "Websale",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[websale_ac]"
+        }
+    ],
+    "website": "http://websale.de"
+}

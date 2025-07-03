@@ -1,0 +1,11 @@
+{
+    "name": "Cecil",
+    "matches": [
+        {
+            "regexp": "^Cecil(?: ([0-9.]+))?$",
+            "search": "meta[generator]",
+            "offset": 1
+        }
+    ],
+    "website": "https://cecil.app"
+}

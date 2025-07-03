@@ -1,0 +1,19 @@
+{
+    "implies": [
+        "Next.js",
+        "GraphQL",
+        "MongoDB"
+    ],
+    "name": "Ikas",
+    "matches": [
+        {
+            "regexp": "^ikas$",
+            "search": "headers[x-powered-by]"
+        },
+        {
+            "regexp": "^ikas$",
+            "search": "headers[server]"
+        }
+    ],
+    "website": "https://ikas.com"
+}

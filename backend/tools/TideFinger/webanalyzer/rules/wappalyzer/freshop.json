@@ -1,0 +1,10 @@
+{
+    "name": "Freshop",
+    "matches": [
+        {
+            "regexp": "^Freshop, Inc\\.$",
+            "search": "meta[author]"
+        }
+    ],
+    "website": "https://www.freshop.com"
+}

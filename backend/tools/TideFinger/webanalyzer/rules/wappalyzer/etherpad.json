@@ -1,0 +1,11 @@
+{
+    "implies": "Node.js",
+    "name": "Etherpad",
+    "matches": [
+        {
+            "regexp": "^Etherpad",
+            "search": "headers[server]"
+        }
+    ],
+    "website": "https://etherpad.org"
+}

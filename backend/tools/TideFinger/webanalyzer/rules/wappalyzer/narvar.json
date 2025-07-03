@@ -1,0 +1,10 @@
+{
+    "name": "Narvar",
+    "matches": [
+        {
+            "regexp": "\\.narvar\\.com",
+            "search": "headers[content-security-policy]"
+        }
+    ],
+    "website": "https://corp.narvar.com"
+}

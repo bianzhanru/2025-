@@ -1,0 +1,9 @@
+{
+    "name": "Asciinema",
+    "matches": [
+        {
+            "regexp": "<asciinema-player"
+        }
+    ],
+    "website": "https://asciinema.org/"
+}

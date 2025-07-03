@@ -1,0 +1,9 @@
+{
+    "name": "Recurly",
+    "matches": [
+        {
+            "regexp": "<input[^>]+data-recurly"
+        }
+    ],
+    "website": "https://recurly.com"
+}

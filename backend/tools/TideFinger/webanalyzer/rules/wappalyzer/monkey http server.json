@@ -1,0 +1,11 @@
+{
+    "name": "Monkey HTTP Server",
+    "matches": [
+        {
+            "regexp": "Monkey/?([\\d.]+)?",
+            "search": "headers[server]",
+            "offset": 1
+        }
+    ],
+    "website": "http://monkey-project.com"
+}

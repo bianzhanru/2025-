@@ -1,0 +1,10 @@
+{
+    "name": "Analysys Ark",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[ARK_ID]"
+        }
+    ],
+    "website": "https://ark.analysys.cn"
+}

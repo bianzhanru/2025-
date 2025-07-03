@@ -1,0 +1,11 @@
+{
+    "name": "Nicepage",
+    "matches": [
+        {
+            "regexp": "Nicepage\\s([\\d\\.]+)",
+            "search": "meta[generator]",
+            "offset": 1
+        }
+    ],
+    "website": "https://nicepage.com"
+}

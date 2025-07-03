@@ -1,0 +1,9 @@
+{
+    "implies": [
+        "Windows Server",
+        "IIS"
+    ],
+    "name": "OutSystems",
+    "matches": [],
+    "website": "https://www.outsystems.com"
+}

@@ -1,0 +1,16 @@
+{
+    "excludes": [
+        "Angular",
+        "AngularDart"
+    ],
+    "name": "AngularJS",
+    "matches": [
+        {
+            "regexp": "<(?:div|html)[^>]+ng-app="
+        },
+        {
+            "regexp": "<ng-app"
+        }
+    ],
+    "website": "https://angularjs.org"
+}

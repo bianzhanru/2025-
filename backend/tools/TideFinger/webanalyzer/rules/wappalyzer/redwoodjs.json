@@ -1,0 +1,10 @@
+{
+    "implies": [
+        "React",
+        "GraphQL",
+        "TypeScript"
+    ],
+    "name": "RedwoodJS",
+    "matches": [],
+    "website": "https://redwoodjs.com"
+}

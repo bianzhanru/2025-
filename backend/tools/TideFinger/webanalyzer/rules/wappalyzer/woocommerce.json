@@ -1,0 +1,11 @@
+{
+    "name": "WooCommerce",
+    "matches": [
+        {
+            "regexp": "WooCommerce ([\\d.]+)",
+            "search": "meta[generator]",
+            "offset": 1
+        }
+    ],
+    "website": "https://woocommerce.com"
+}

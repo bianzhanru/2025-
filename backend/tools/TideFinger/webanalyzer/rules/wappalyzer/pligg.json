@@ -1,0 +1,13 @@
+{
+    "name": "Pligg",
+    "matches": [
+        {
+            "regexp": "Pligg",
+            "search": "meta[generator]"
+        },
+        {
+            "regexp": "<span[^>]+id=\"xvotes-0"
+        }
+    ],
+    "website": "http://pligg.com"
+}

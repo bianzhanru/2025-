@@ -1,0 +1,10 @@
+{
+    "name": "Brightcove",
+    "matches": [
+        {
+            "regexp": "players\\.brightcove\\.net/",
+            "search": "script"
+        }
+    ],
+    "website": "https://www.brightcove.com"
+}

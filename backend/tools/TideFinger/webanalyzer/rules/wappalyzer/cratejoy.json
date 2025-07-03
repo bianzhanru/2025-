@@ -1,0 +1,14 @@
+{
+    "name": "Cratejoy",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[statjoy_metrics]"
+        },
+        {
+            "regexp": ".*",
+            "search": "cookies[cratejoy_muffin42]"
+        }
+    ],
+    "website": "https://www.cratejoy.com"
+}

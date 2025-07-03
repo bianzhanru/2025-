@@ -1,0 +1,14 @@
+{
+    "name": "Sourcepoint",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[_sp_enable_dfp_personalized_ads]"
+        },
+        {
+            "regexp": "SOURCEPOINT_MMS_DOMAIN",
+            "search": "script"
+        }
+    ],
+    "website": "https://sourcepoint.com"
+}

@@ -1,0 +1,16 @@
+{
+    "matches": [
+        {
+            "regexp": "prod",
+            "search": "headers[x-ah-environment]"
+        }
+    ],
+    "implies": [
+        "Acquia Cloud Platform",
+        "Amazon EC2",
+        "Percona",
+        "Red Hat Gluster"
+    ],
+    "name": "Acquia Cloud Classic",
+    "website": "https://docs.acquia.com/cloud-platform/"
+}

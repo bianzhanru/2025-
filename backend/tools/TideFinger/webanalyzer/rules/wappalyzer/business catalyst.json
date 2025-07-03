@@ -1,0 +1,9 @@
+{
+    "name": "Business Catalyst",
+    "matches": [
+        {
+            "regexp": "<!-- BC_OBNW -->"
+        }
+    ],
+    "website": "http://businesscatalyst.com"
+}

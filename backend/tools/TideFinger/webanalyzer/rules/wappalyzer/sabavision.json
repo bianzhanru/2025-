@@ -1,0 +1,10 @@
+{
+    "name": "SabaVision",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "meta[sabavision_zone]"
+        }
+    ],
+    "website": "https://www.sabavision.com"
+}

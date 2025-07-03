@@ -1,0 +1,14 @@
+{
+    "name": "Retail Rocket",
+    "matches": [
+        {
+            "regexp": "^\\d+$",
+            "search": "cookies[rrpvid]"
+        },
+        {
+            "regexp": "testvalue",
+            "search": "cookies[rr-testCookie]"
+        }
+    ],
+    "website": "https://retailrocket.net"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Loop54",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[Loop54User]"
+        }
+    ],
+    "website": "https://www.loop54.com"
+}

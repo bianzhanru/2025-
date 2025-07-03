@@ -1,0 +1,16 @@
+{
+    "matches": [
+        {
+            "regexp": "next",
+            "search": "headers[x-ah-environment]"
+        }
+    ],
+    "implies": [
+        "Acquia Cloud Platform",
+        "Kubernetes Dashboard",
+        "Amazon EFS",
+        "Amazon Aurora"
+    ],
+    "name": "Acquia Cloud Next",
+    "website": "https://docs.acquia.com/cloud-platform/cloud-next/"
+}

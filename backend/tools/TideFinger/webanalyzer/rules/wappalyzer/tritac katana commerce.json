@@ -1,0 +1,10 @@
+{
+    "name": "Tritac Katana Commerce",
+    "matches": [
+        {
+            "regexp": "^Katana\\sCommerce$",
+            "search": "meta[powered-by]"
+        }
+    ],
+    "website": "https://www.tritac.com/nl/producten/katana-commerce/"
+}

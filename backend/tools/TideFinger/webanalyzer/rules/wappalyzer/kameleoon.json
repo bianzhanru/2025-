@@ -1,0 +1,10 @@
+{
+    "name": "Kameleoon",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[kameleoonVisitorCode]"
+        }
+    ],
+    "website": "https://kameleoon.com/"
+}

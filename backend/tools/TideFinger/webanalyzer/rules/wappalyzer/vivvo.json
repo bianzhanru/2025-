@@ -1,0 +1,10 @@
+{
+    "name": "VIVVO",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[VivvoSessionId]"
+        }
+    ],
+    "website": "http://vivvo.net"
+}

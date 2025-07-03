@@ -1,0 +1,9 @@
+{
+    "implies": [
+        "Perl",
+        "PHP"
+    ],
+    "name": "FUDforum",
+    "matches": [],
+    "website": "https://github.com/fudforum/FUDforum"
+}

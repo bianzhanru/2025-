@@ -1,0 +1,11 @@
+{
+    "implies": "PHP",
+    "name": "BoidCMS",
+    "matches": [
+        {
+            "regexp": "BoidCMS",
+            "search": "headers[x-powered-by]"
+        }
+    ],
+    "website": "https://boidcms.github.io"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "MySiteNow",
+    "matches": [
+        {
+            "regexp": "^MySiteNow$",
+            "search": "meta[app-platform]"
+        }
+    ],
+    "website": "https://mysitenow.gr"
+}

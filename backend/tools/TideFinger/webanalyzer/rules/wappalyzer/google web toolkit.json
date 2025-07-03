@@ -1,0 +1,11 @@
+{
+    "implies": "Java",
+    "name": "Google Web Toolkit",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "meta[gwt:property]"
+        }
+    ],
+    "website": "http://developers.google.com/web-toolkit"
+}

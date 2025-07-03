@@ -1,0 +1,10 @@
+{
+    "name": "PlatformOS",
+    "matches": [
+        {
+            "regexp": "^platformOS$",
+            "search": "headers[x-powered-by]"
+        }
+    ],
+    "website": "https://www.platform-os.com"
+}

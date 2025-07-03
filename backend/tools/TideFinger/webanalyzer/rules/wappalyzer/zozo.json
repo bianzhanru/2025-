@@ -1,0 +1,15 @@
+{
+    "excludes": "OpenCart",
+    "implies": [
+        "PHP",
+        "MySQL"
+    ],
+    "name": "Zozo",
+    "matches": [
+        {
+            "regexp": "Zozo Ecommerce",
+            "search": "meta[generator]"
+        }
+    ],
+    "website": "https://zozo.vn"
+}

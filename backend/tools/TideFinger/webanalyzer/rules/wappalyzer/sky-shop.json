@@ -1,0 +1,15 @@
+{
+    "implies": [
+        "PHP",
+        "Bootstrap",
+        "jQuery"
+    ],
+    "name": "Sky-Shop",
+    "matches": [
+        {
+            "regexp": "Sky-Shop",
+            "search": "meta[generator]"
+        }
+    ],
+    "website": "https://sky-shop.pl"
+}

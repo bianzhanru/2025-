@@ -1,0 +1,10 @@
+{
+    "name": "MyCashFlow",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "headers[x-mcf-id]"
+        }
+    ],
+    "website": "https://www.mycashflow.fi/"
+}

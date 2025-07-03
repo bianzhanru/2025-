@@ -1,0 +1,10 @@
+{
+    "name": "Shoporama",
+    "matches": [
+        {
+            "regexp": "Shoporama",
+            "search": "meta[generator]"
+        }
+    ],
+    "website": "https://www.shoporama.dk"
+}

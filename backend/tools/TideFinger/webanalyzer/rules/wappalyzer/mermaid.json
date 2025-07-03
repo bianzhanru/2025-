@@ -1,0 +1,10 @@
+{
+    "name": "Mermaid",
+    "matches": [
+        {
+            "certainty": 90,
+            "regexp": "<div [^>]*class=[\"']mermaid[\"']>"
+        }
+    ],
+    "website": "https://mermaidjs.github.io/"
+}

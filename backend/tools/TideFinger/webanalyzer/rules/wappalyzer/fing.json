@@ -1,0 +1,10 @@
+{
+    "name": "Fing",
+    "matches": [
+        {
+            "regexp": "^Fing",
+            "search": "headers[server]"
+        }
+    ],
+    "website": "https://fing.ir"
+}

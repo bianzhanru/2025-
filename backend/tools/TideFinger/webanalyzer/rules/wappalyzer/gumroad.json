@@ -1,0 +1,14 @@
+{
+    "name": "Gumroad",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[_gumroad_guid]"
+        },
+        {
+            "regexp": ".*",
+            "search": "cookies[_gumroad_app_session]"
+        }
+    ],
+    "website": "https://gumroad.com"
+}

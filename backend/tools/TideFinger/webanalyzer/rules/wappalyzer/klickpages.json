@@ -1,0 +1,10 @@
+{
+    "name": "KlickPages",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "meta[klickart:url]"
+        }
+    ],
+    "website": "https://klickpages.com.br"
+}

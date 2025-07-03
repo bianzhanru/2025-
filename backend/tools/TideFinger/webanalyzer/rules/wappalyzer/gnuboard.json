@@ -1,0 +1,9 @@
+{
+    "implies": [
+        "PHP",
+        "MySQL"
+    ],
+    "name": "Gnuboard",
+    "matches": [],
+    "website": "https://github.com/gnuboard"
+}

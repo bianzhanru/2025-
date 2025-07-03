@@ -1,0 +1,14 @@
+{
+    "name": "Optimizely Commerce",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[EPi:StateMarker]"
+        },
+        {
+            "regexp": "EPiServer",
+            "search": "meta[generator]"
+        }
+    ],
+    "website": "https://www.optimizely.com/products/commerce/b2c/"
+}

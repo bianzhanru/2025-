@@ -1,0 +1,10 @@
+{
+    "name": "MemberStack",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[memberstack]"
+        }
+    ],
+    "website": "https://www.memberstack.io"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Tallentor Widget",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[tallentor_widget]"
+        }
+    ],
+    "website": "https://tallentor.com"
+}

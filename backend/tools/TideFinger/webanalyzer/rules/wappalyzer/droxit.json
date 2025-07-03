@@ -1,0 +1,10 @@
+{
+    "name": "Droxit",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[droxit_a11y_state]"
+        }
+    ],
+    "website": "https://www.droxit.com"
+}

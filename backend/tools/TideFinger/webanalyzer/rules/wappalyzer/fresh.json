@@ -1,0 +1,9 @@
+{
+    "implies": [
+        "Deno",
+        "Preact"
+    ],
+    "name": "Fresh",
+    "matches": [],
+    "website": "https://fresh.deno.dev"
+}

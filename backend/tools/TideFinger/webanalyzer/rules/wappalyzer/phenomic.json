@@ -1,0 +1,10 @@
+{
+    "implies": "React",
+    "name": "Phenomic",
+    "matches": [
+        {
+            "regexp": "<[^>]+id=\"phenomic(?:root)?\""
+        }
+    ],
+    "website": "https://phenomic.io/"
+}

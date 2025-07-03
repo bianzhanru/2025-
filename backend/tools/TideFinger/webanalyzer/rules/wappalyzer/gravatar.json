@@ -1,0 +1,9 @@
+{
+    "name": "Gravatar",
+    "matches": [
+        {
+            "regexp": "<[^>]+gravatar\\.com/avatar/"
+        }
+    ],
+    "website": "http://gravatar.com"
+}

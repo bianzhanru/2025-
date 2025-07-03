@@ -1,0 +1,30 @@
+{
+    "implies": "PHP",
+    "name": "phpBB",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[phpbb]"
+        },
+        {
+            "regexp": "phpBB Group",
+            "search": "meta[copyright]"
+        },
+        {
+            "regexp": "Powered by <a[^>]+phpBB"
+        },
+        {
+            "regexp": "<div class=phpbb_copyright>"
+        },
+        {
+            "regexp": "<[^>]+styles/(?:sub|pro)silver/theme"
+        },
+        {
+            "regexp": "<img[^>]+i_icon_mini"
+        },
+        {
+            "regexp": "<table class=\"[^\"]*forumline"
+        }
+    ],
+    "website": "https://phpbb.com"
+}

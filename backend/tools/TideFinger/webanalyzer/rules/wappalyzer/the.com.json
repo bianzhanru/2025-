@@ -1,0 +1,9 @@
+{
+    "implies": [
+        "React",
+        "Amazon S3"
+    ],
+    "name": "The.com",
+    "matches": [],
+    "website": "https://www.the.com"
+}

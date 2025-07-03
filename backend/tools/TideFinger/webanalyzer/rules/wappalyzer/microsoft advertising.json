@@ -1,0 +1,14 @@
+{
+    "name": "Microsoft Advertising",
+    "matches": [
+        {
+            "regexp": "\\w+",
+            "search": "cookies[_uetsid]"
+        },
+        {
+            "regexp": "\\w+",
+            "search": "cookies[_uetvid]"
+        }
+    ],
+    "website": "https://ads.microsoft.com"
+}

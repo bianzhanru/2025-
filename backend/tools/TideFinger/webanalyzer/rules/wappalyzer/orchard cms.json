@@ -1,0 +1,11 @@
+{
+    "implies": "Microsoft ASP.NET",
+    "matches": [
+        {
+            "search": "meta[generator]",
+            "regexp": "Orchard"
+        }
+    ],
+    "name": "Orchard CMS",
+    "website": "http://orchardproject.net"
+}

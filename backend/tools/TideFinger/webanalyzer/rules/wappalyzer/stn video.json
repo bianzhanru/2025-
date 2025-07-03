@@ -1,0 +1,10 @@
+{
+    "name": "STN Video",
+    "matches": [
+        {
+            "regexp": "embed\\.sendtonews\\.com/",
+            "search": "script"
+        }
+    ],
+    "website": "https://www.stnvideo.com"
+}

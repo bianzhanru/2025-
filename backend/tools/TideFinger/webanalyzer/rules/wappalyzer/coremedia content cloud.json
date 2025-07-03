@@ -1,0 +1,14 @@
+{
+    "name": "CoreMedia Content Cloud",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "meta[coremedia_content_id]"
+        },
+        {
+            "regexp": "^CoreMedia C(?:ontent Cloud|MS)$",
+            "search": "meta[generator]"
+        }
+    ],
+    "website": "https://www.coremedia.com"
+}

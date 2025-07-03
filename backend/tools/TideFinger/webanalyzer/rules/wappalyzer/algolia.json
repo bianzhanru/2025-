@@ -1,0 +1,14 @@
+{
+    "name": "Algolia",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[_ALGOLIA]"
+        },
+        {
+            "regexp": "\\.algolia",
+            "search": "headers[content-security-policy]"
+        }
+    ],
+    "website": "http://www.algolia.com"
+}

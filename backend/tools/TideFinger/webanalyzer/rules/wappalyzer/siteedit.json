@@ -1,0 +1,10 @@
+{
+    "name": "SiteEdit",
+    "matches": [
+        {
+            "regexp": "SiteEdit",
+            "search": "meta[generator]"
+        }
+    ],
+    "website": "http://www.siteedit.ru"
+}

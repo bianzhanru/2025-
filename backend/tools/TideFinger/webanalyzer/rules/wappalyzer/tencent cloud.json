@@ -1,0 +1,10 @@
+{
+    "name": "Tencent Cloud",
+    "matches": [
+        {
+            "regexp": "^.+Tencent\\sCloud\\.$",
+            "search": "meta[copyright]"
+        }
+    ],
+    "website": "https://intl.cloud.tencent.com"
+}

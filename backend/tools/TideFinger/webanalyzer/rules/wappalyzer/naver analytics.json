@@ -1,0 +1,10 @@
+{
+    "name": "Naver Analytics",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "meta[naver-site-verification]"
+        }
+    ],
+    "website": "https://analytics.naver.com"
+}

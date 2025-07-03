@@ -1,0 +1,11 @@
+{
+    "name": "Kong",
+    "matches": [
+        {
+            "regexp": "^kong/([\\d\\.]+)(?:.+)?$",
+            "search": "headers[via]",
+            "offset": 1
+        }
+    ],
+    "website": "https://konghq.com"
+}

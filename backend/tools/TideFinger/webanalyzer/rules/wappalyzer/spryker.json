@@ -1,0 +1,10 @@
+{
+    "name": "Spryker",
+    "matches": [
+        {
+            "regexp": "spryker",
+            "search": "meta[generator]"
+        }
+    ],
+    "website": "https://www.spryker.com"
+}

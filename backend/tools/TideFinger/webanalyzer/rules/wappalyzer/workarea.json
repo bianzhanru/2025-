@@ -1,0 +1,10 @@
+{
+    "implies": [
+        "Ruby on Rails",
+        "MongoDB",
+        "Elasticsearch"
+    ],
+    "name": "Workarea",
+    "matches": [],
+    "website": "https://www.workarea.com"
+}

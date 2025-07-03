@@ -1,0 +1,10 @@
+{
+    "name": "SmugMug",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "headers[smug-cdn]"
+        }
+    ],
+    "website": "https://www.smugmug.com"
+}

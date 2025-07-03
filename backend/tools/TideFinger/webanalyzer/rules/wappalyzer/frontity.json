@@ -1,0 +1,15 @@
+{
+    "implies": [
+        "React",
+        "Webpack",
+        "WordPress"
+    ],
+    "name": "Frontity",
+    "matches": [
+        {
+            "regexp": "^Frontity",
+            "search": "meta[generator]"
+        }
+    ],
+    "website": "https://frontity.org"
+}

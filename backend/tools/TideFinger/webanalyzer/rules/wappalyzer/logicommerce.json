@@ -1,0 +1,14 @@
+{
+    "name": "LogiCommerce",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "meta[logicommerce]"
+        },
+        {
+            "regexp": "^LogiCommerce$",
+            "search": "meta[generator]"
+        }
+    ],
+    "website": "https://www.logicommerce.com"
+}

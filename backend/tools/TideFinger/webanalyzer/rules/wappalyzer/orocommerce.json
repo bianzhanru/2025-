@@ -1,0 +1,16 @@
+{
+    "implies": [
+        "PHP",
+        "MySQL"
+    ],
+    "name": "OroCommerce",
+    "matches": [
+        {
+            "regexp": "<script [^>]+data-requiremodule=\"oro/"
+        },
+        {
+            "regexp": "<script [^>]+data-requiremodule=\"oroui/"
+        }
+    ],
+    "website": "https://oroinc.com"
+}

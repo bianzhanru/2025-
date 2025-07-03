@@ -1,0 +1,10 @@
+{
+    "name": "Sitevision CMS",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[SiteVisionLTM]"
+        }
+    ],
+    "website": "https://www.sitevision.se"
+}

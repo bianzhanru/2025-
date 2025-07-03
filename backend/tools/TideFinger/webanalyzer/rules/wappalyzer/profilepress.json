@@ -1,0 +1,10 @@
+{
+    "name": "ProfilePress",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[ppwp_wp_session]"
+        }
+    ],
+    "website": "https://profilepress.net"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Weglot",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "headers[weglot-translated]"
+        }
+    ],
+    "website": "https://www.weglot.com"
+}

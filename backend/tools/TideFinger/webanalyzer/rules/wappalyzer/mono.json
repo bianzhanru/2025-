@@ -1,0 +1,10 @@
+{
+    "name": "Mono",
+    "matches": [
+        {
+            "regexp": "Mono",
+            "search": "headers[x-powered-by]"
+        }
+    ],
+    "website": "http://mono-project.com"
+}

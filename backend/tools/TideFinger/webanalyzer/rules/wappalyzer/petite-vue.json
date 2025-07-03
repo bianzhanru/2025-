@@ -1,0 +1,11 @@
+{
+    "name": "petite-vue",
+    "matches": [
+        {
+            "regexp": "/petite-vue@([\\d\\.]+)/",
+            "search": "script",
+            "offset": 1
+        }
+    ],
+    "website": "https://github.com/vuejs/petite-vue"
+}

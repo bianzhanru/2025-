@@ -1,0 +1,10 @@
+{
+    "name": "LiteSpeed",
+    "matches": [
+        {
+            "regexp": "^LiteSpeed$",
+            "search": "headers[server]"
+        }
+    ],
+    "website": "http://litespeedtech.com"
+}

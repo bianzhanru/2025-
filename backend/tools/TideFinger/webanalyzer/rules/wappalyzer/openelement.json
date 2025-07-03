@@ -1,0 +1,12 @@
+{
+    "implies": "PHP",
+    "name": "OpenElement",
+    "matches": [
+        {
+            "regexp": "openElement\\s\\(([\\d\\.]+)\\)",
+            "search": "meta[generator]",
+            "offset": 1
+        }
+    ],
+    "website": "http://openelement.uk"
+}

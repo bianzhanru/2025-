@@ -1,0 +1,10 @@
+{
+    "name": "CloudCart",
+    "matches": [
+        {
+            "regexp": "^CloudCart LLC$",
+            "search": "meta[author]"
+        }
+    ],
+    "website": "http://cloudcart.com"
+}

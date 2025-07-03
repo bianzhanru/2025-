@@ -1,0 +1,14 @@
+{
+    "implies": [
+        "PHP",
+        "AngularJS",
+        "jQuery"
+    ],
+    "name": "MotoCMS",
+    "matches": [
+        {
+            "regexp": "<link [^>]*href=\"[^>]*\\/mt-content\\/[^>]*\\.css"
+        }
+    ],
+    "website": "http://motocms.com"
+}

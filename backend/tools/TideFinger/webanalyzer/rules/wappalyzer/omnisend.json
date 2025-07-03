@@ -1,0 +1,14 @@
+{
+    "name": "Omnisend",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[omnisendSessionID]"
+        },
+        {
+            "regexp": ".*",
+            "search": "meta[omnisend-site-verification]"
+        }
+    ],
+    "website": "https://www.omnisend.com"
+}

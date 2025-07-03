@@ -1,0 +1,11 @@
+{
+    "name": "Nosto",
+    "matches": [
+        {
+            "regexp": "([\\d.]+)",
+            "search": "meta[nosto-version]",
+            "offset": 1
+        }
+    ],
+    "website": "https://www.nosto.com"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Milligram",
+    "matches": [
+        {
+            "regexp": "<link[^>]+?href=\"[^\"]+milligram(?:\\.min)?\\.css"
+        }
+    ],
+    "website": "https://milligram.io"
+}

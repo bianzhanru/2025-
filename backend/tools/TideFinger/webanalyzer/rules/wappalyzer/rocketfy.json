@@ -1,0 +1,15 @@
+{
+    "implies": [
+        "React",
+        "Next.js"
+    ],
+    "name": "Rocketfy",
+    "matches": [
+        {
+            "regexp": "^Rocketfy\\sMaker\\s-\\sv([\\d\\.]+)$",
+            "search": "meta[generator]",
+            "offset": 1
+        }
+    ],
+    "website": "https://rocketfy.mx"
+}

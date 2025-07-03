@@ -1,0 +1,10 @@
+{
+    "name": "Kontent.ai",
+    "matches": [
+        {
+            "regexp": "\\.kc-usercontent\\.com",
+            "search": "headers[content-security-policy]"
+        }
+    ],
+    "website": "https://kontent.ai"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "CoreUI",
+    "matches": [
+        {
+            "regexp": "webpackJsonp@coreui/coreui",
+            "search": "script"
+        }
+    ],
+    "website": "https://coreui.io"
+}

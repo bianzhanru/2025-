@@ -1,0 +1,22 @@
+{
+    "excludes": "Drupal",
+    "implies": "PHP",
+    "name": "Backdrop",
+    "matches": [
+        {
+            "regexp": "^Backdrop CMS(?:\\s([\\d.]+))?",
+            "search": "meta[generator]",
+            "offset": 1
+        },
+        {
+            "regexp": "^Backdrop CMS(?:\\s([\\d.]+))?",
+            "search": "headers[x-generator]",
+            "offset": 1
+        },
+        {
+            "regexp": ".*",
+            "search": "headers[x-backdrop-cache]"
+        }
+    ],
+    "website": "https://backdropcms.org"
+}

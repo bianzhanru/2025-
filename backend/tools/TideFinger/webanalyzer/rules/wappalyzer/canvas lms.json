@@ -1,0 +1,14 @@
+{
+    "implies": [
+        "Ruby on Rails",
+        "React"
+    ],
+    "name": "Canvas LMS",
+    "matches": [
+        {
+            "regexp": "login/canvas",
+            "search": "headers[x-canvas-meta]"
+        }
+    ],
+    "website": "https://www.instructure.com/canvas"
+}

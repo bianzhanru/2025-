@@ -1,0 +1,14 @@
+{
+    "implies": "PHP",
+    "name": "Shoptet",
+    "matches": [
+        {
+            "regexp": "^Shoptet",
+            "search": "meta[web_author]"
+        },
+        {
+            "regexp": "<link [^>]*href=\"https?://cdn\\.myshoptet\\.com/"
+        }
+    ],
+    "website": "http://www.shoptet.cz"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Hugo",
+    "matches": [
+        {
+            "regexp": "Hugo ([\\d.]+)?",
+            "search": "meta[generator]",
+            "offset": 1
+        }
+    ],
+    "website": "http://gohugo.io"
+}

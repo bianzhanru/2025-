@@ -1,0 +1,10 @@
+{
+    "name": "Lozad.js",
+    "matches": [
+        {
+            "regexp": "/lozad\\.min\\.js",
+            "search": "script"
+        }
+    ],
+    "website": "https://apoorv.pro/lozad.js/"
+}

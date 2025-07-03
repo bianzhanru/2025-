@@ -1,0 +1,10 @@
+{
+    "name": "MyOnlineStore",
+    "matches": [
+        {
+            "regexp": "Mijnwebwinkel",
+            "search": "meta[generator]"
+        }
+    ],
+    "website": "https://www.myonlinestore.com/ "
+}

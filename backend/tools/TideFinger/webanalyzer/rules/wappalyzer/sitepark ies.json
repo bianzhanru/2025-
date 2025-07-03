@@ -1,0 +1,15 @@
+{
+    "implies": [
+        "MySQL",
+        "Lucene"
+    ],
+    "name": "Sitepark IES",
+    "matches": [
+        {
+            "regexp": "^Sitepark\\sInformation\\sEnterprise\\sServer\\s-\\sIES\\sGenerator\\sv([\\d\\.]+)$",
+            "search": "meta[generator]",
+            "offset": 1
+        }
+    ],
+    "website": "https://www.sitepark.com/oeffentlicher-sektor/produkte/cms-technologie.php"
+}

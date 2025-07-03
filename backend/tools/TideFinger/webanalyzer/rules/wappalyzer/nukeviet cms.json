@@ -1,0 +1,11 @@
+{
+    "name": "Nukeviet CMS",
+    "matches": [
+        {
+            "regexp": "NukeViet v([\\d.]+)",
+            "search": "meta[generator]",
+            "offset": 1
+        }
+    ],
+    "website": "https://nukeviet.vn/en/"
+}

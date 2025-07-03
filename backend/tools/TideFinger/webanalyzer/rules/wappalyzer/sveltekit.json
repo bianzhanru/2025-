@@ -1,0 +1,10 @@
+{
+    "implies": [
+        "Svelte",
+        "Node.js",
+        "Vite"
+    ],
+    "name": "SvelteKit",
+    "matches": [],
+    "website": "https://kit.svelte.dev"
+}

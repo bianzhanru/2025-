@@ -1,0 +1,14 @@
+{
+    "name": "Commerce.js",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "headers[chec-version]"
+        },
+        {
+            "regexp": "Commerce.js",
+            "search": "headers[x-powered-by]"
+        }
+    ],
+    "website": "https://www.commercejs.com"
+}

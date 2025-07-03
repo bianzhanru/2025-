@@ -1,0 +1,9 @@
+{
+    "name": "Stimulus",
+    "matches": [
+        {
+            "regexp": "<[^>]+data-controller"
+        }
+    ],
+    "website": "https://stimulusjs.org/"
+}

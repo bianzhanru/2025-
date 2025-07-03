@@ -1,0 +1,11 @@
+{
+    "name": "cState",
+    "matches": [
+        {
+            "regexp": "cState v([\\d\\.]+)",
+            "search": "meta[generator]",
+            "offset": 1
+        }
+    ],
+    "website": "https://github.com/cstate/cstate"
+}

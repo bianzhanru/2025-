@@ -1,0 +1,9 @@
+{
+    "name": "Shapecss",
+    "matches": [
+        {
+            "regexp": "<link[^>]* href=\"[^\"]*shapecss(?:\\.min)?\\.css"
+        }
+    ],
+    "website": "https://shapecss.com"
+}

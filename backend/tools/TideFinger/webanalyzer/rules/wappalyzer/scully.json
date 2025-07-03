@@ -1,0 +1,12 @@
+{
+    "implies": "Angular",
+    "name": "Scully",
+    "matches": [
+        {
+            "regexp": "^Scully\\s([\\d\\.]+)$",
+            "search": "meta[generator]",
+            "offset": 1
+        }
+    ],
+    "website": "https://scully.io"
+}

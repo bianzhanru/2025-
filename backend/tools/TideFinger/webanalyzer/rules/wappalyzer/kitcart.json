@@ -1,0 +1,9 @@
+{
+    "implies": [
+        "Laravel",
+        "PHP"
+    ],
+    "name": "Kitcart",
+    "matches": [],
+    "website": "https://kitcart.net"
+}

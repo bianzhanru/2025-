@@ -1,0 +1,9 @@
+{
+    "implies": [
+        "Django",
+        "Python"
+    ],
+    "name": "Wagtail",
+    "matches": [],
+    "website": "https://wagtail.org/"
+}

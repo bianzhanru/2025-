@@ -1,0 +1,16 @@
+{
+    "implies": [
+        "PHP",
+        "MySQL",
+        "Varnish",
+        "Symfony"
+    ],
+    "name": "Ebasnet",
+    "matches": [
+        {
+            "regexp": "^Ebasnet Web Solutions$",
+            "search": "meta[author]"
+        }
+    ],
+    "website": "https://ebasnet.com"
+}

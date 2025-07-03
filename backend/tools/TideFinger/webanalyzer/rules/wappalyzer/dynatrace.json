@@ -1,0 +1,10 @@
+{
+    "name": "Dynatrace",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[dtCookie1]"
+        }
+    ],
+    "website": "https://www.dynatrace.com"
+}

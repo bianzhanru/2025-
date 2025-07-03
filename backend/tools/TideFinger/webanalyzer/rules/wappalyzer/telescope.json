@@ -1,0 +1,9 @@
+{
+    "implies": [
+        "Meteor",
+        "React"
+    ],
+    "name": "Telescope",
+    "matches": [],
+    "website": "http://telescopeapp.org"
+}

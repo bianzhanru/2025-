@@ -1,0 +1,10 @@
+{
+    "name": "WebAssembly",
+    "matches": [
+        {
+            "regexp": "application/wasm",
+            "search": "headers[content-type]"
+        }
+    ],
+    "website": "https://webassembly.org/"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Eggplant",
+    "matches": [
+        {
+            "regexp": "\\.eggplant\\.cloud",
+            "search": "headers[content-security-policy]"
+        }
+    ],
+    "website": "https://www.eggplantsoftware.com"
+}

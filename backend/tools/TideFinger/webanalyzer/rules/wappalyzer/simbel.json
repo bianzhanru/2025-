@@ -1,0 +1,10 @@
+{
+    "name": "Simbel",
+    "matches": [
+        {
+            "regexp": "simbel",
+            "search": "headers[powered]"
+        }
+    ],
+    "website": "http://simbel.com.ar/"
+}

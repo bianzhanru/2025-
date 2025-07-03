@@ -1,0 +1,13 @@
+configparser
+colorama
+XlsxWriter
+requests
+mmh3
+prettytable
+aiohttp
+lxml
+urllib3
+bs4
+html5lib
+flask
+flask_restful

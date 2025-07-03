@@ -1,0 +1,14 @@
+{
+    "name": "Plesk",
+    "matches": [
+        {
+            "regexp": "^Plesk(?:L|W)in",
+            "search": "headers[x-powered-by]"
+        },
+        {
+            "regexp": "^Plesk",
+            "search": "headers[x-powered-by-plesk]"
+        }
+    ],
+    "website": "https://www.plesk.com/"
+}

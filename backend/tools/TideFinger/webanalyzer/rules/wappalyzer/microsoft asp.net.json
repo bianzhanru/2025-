@@ -1,0 +1,30 @@
+{
+    "name": "Microsoft ASP.NET",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[ASP.NET_SessionId]"
+        },
+        {
+            "regexp": ".*",
+            "search": "cookies[ASPSESSION]"
+        },
+        {
+            "regexp": "(.+)",
+            "search": "headers[x-aspnet-version]",
+            "offset": 1
+        },
+        {
+            "regexp": "\\.AspNetCore",
+            "search": "headers[set-cookie]"
+        },
+        {
+            "regexp": "^ASP\\.NET",
+            "search": "headers[x-powered-by]"
+        },
+        {
+            "regexp": "<input[^>]+name=\"__VIEWSTATE"
+        }
+    ],
+    "website": "https://www.asp.net"
+}

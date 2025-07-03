@@ -1,0 +1,10 @@
+{
+    "name": "Medallia",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[k_visit]"
+        }
+    ],
+    "website": "https://www.medallia.com"
+}

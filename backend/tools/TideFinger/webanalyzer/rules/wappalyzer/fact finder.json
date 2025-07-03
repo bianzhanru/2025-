@@ -1,0 +1,9 @@
+{
+    "name": "Fact Finder",
+    "matches": [
+        {
+            "regexp": "<!-- Factfinder"
+        }
+    ],
+    "website": "http://fact-finder.com"
+}

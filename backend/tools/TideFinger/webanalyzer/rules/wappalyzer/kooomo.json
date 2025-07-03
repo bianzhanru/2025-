@@ -1,0 +1,15 @@
+{
+    "implies": [
+        "PHP",
+        "MySQL"
+    ],
+    "name": "Kooomo",
+    "matches": [
+        {
+            "regexp": "Kooomo(?: v([\\d.]+))?",
+            "search": "meta[generator]",
+            "offset": 1
+        }
+    ],
+    "website": "https://www.kooomo.com"
+}

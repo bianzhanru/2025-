@@ -1,0 +1,10 @@
+{
+    "name": "WiziShop",
+    "matches": [
+        {
+            "regexp": "^WiziServer$",
+            "search": "headers[server]"
+        }
+    ],
+    "website": "https://wizishop.com"
+}

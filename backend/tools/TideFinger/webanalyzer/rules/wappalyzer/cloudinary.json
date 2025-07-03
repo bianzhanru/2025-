@@ -1,0 +1,10 @@
+{
+    "name": "Cloudinary",
+    "matches": [
+        {
+            "regexp": "player\\.cloudinary\\.com",
+            "search": "headers[content-security-policy]"
+        }
+    ],
+    "website": "https://cloudinary.com"
+}

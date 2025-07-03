@@ -1,0 +1,14 @@
+{
+    "implies": [
+        "PHP",
+        "Symfony"
+    ],
+    "name": "Elcodi",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "headers[x-elcodi]"
+        }
+    ],
+    "website": "http://elcodi.io"
+}

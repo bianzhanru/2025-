@@ -1,0 +1,11 @@
+{
+    "excludes": "Magento",
+    "name": "Azoya",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "headers[x-azoya-webisteid]"
+        }
+    ],
+    "website": "https://www.azoyagroup.com"
+}

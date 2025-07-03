@@ -1,0 +1,9 @@
+{
+    "implies": [
+        "React",
+        "Stitches"
+    ],
+    "name": "NextUI",
+    "matches": [],
+    "website": "https://nextui.org/"
+}

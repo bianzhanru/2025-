@@ -1,0 +1,15 @@
+{
+    "implies": [
+        "React",
+        "Webpack",
+        "Node.js"
+    ],
+    "name": "Phoenix",
+    "matches": [
+        {
+            "regexp": "^phoenix",
+            "search": "meta[generator]"
+        }
+    ],
+    "website": "https://github.com/Sazito/phoenix/"
+}

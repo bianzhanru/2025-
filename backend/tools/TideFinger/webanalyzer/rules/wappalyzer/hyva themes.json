@@ -1,0 +1,15 @@
+{
+    "implies": [
+        "Magento",
+        "Tailwind CSS",
+        "Alpine.js"
+    ],
+    "name": "Hyva Themes",
+    "matches": [
+        {
+            "regexp": "^Hyva Themes$",
+            "search": "headers[x-built-with]"
+        }
+    ],
+    "website": "https://hyva.io"
+}

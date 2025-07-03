@@ -1,0 +1,11 @@
+{
+    "name": "Lua",
+    "matches": [
+        {
+            "regexp": "\\bLua(?: ([\\d.]+))?",
+            "search": "headers[x-powered-by]",
+            "offset": 1
+        }
+    ],
+    "website": "http://www.lua.org"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "UIKit",
+    "matches": [
+        {
+            "regexp": "<[^>]+class=\"[^\"]*(?:uk-container|uk-section)"
+        }
+    ],
+    "website": "https://getuikit.com"
+}

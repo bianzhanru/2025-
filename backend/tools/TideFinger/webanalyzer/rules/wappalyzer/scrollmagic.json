@@ -1,0 +1,9 @@
+{
+    "implies": [
+        "jQuery",
+        "GSAP"
+    ],
+    "name": "ScrollMagic",
+    "matches": [],
+    "website": "https://scrollmagic.io"
+}

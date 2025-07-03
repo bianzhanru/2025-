@@ -1,0 +1,10 @@
+{
+    "name": "Splunkd",
+    "matches": [
+        {
+            "regexp": "Splunkd",
+            "search": "headers[server]"
+        }
+    ],
+    "website": "http://splunk.com"
+}

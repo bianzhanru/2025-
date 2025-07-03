@@ -1,0 +1,10 @@
+{
+    "name": "UptimeRobot",
+    "matches": [
+        {
+            "regexp": "\\.uptimerobot\\.com",
+            "search": "headers[content-security-policy]"
+        }
+    ],
+    "website": "https://uptimerobot.com"
+}

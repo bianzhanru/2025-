@@ -1,0 +1,10 @@
+{
+    "name": "Shoplazza",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "cookies[shoplazza_source]"
+        }
+    ],
+    "website": "https://www.shoplazza.com"
+}

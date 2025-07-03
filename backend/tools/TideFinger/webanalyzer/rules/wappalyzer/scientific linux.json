@@ -1,0 +1,14 @@
+{
+    "name": "Scientific Linux",
+    "matches": [
+        {
+            "regexp": "Scientific Linux",
+            "search": "headers[server]"
+        },
+        {
+            "regexp": "Scientific Linux",
+            "search": "headers[x-powered-by]"
+        }
+    ],
+    "website": "http://scientificlinux.org"
+}

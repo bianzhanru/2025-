@@ -1,0 +1,10 @@
+{
+    "name": "inSales",
+    "matches": [
+        {
+            "regexp": ".*",
+            "search": "meta[insales-redefined-api-method]"
+        }
+    ],
+    "website": "https://www.insales.com"
+}

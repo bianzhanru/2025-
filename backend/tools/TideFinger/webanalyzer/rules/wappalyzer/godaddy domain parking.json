@@ -1,0 +1,10 @@
+{
+    "name": "GoDaddy Domain Parking",
+    "matches": [
+        {
+            "regexp": "wsimg\\.com/parking-lander",
+            "search": "script"
+        }
+    ],
+    "website": "https://www.godaddy.com"
+}

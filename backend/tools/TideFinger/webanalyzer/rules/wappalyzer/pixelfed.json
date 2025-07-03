@@ -1,0 +1,8 @@
+{
+    "implies": [
+        "Laravel"
+    ],
+    "name": "PixelFed",
+    "matches": [],
+    "website": "https://pixelfed.org"
+}
